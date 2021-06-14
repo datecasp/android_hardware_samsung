@@ -15,8 +15,8 @@
  * limitations under the License.
  */
 
-//package org.lineageos.settings.device;
-package org.du.settings.device;
+package org.lineageos.settings.device;
+
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -26,7 +26,7 @@ import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceManager;
 
-import org.du.internal.util.FileUtils;
+import org.lineageos.internal.util.FileUtils;
 
 public class mDNIeScenario extends ListPreference implements Preference.OnPreferenceChangeListener {
 
