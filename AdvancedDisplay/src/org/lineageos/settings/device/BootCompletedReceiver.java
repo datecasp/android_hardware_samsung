@@ -15,8 +15,8 @@
  * limitations under the License.
  */
 
-//package org.lineageos.settings.device;
-package org.du.settings.device;
+package org.lineageos.settings.device;
+
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
