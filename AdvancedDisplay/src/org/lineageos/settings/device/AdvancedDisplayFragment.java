@@ -14,7 +14,8 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.device;
+//package org.lineageos.settings.device;
+package org.du.settings.device;
 
 import android.app.ActionBar;
 import android.content.res.Resources;
